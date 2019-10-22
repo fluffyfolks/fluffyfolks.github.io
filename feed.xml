@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Fluffyfolks</title>
+    <link href="https://fluffyfolks.github.io/feed.xml" rel="self" />
+    <link href="https://fluffyfolks.github.io" />
+    <updated>2019-10-22T20:51:32+08:00</updated>
+    <author>
+        <name>Calvin</name>
+    </author>
+    <id>https://fluffyfolks.github.io</id>
+
+    <entry>
+        <title>First Post</title>
+        <author>
+            <name>Calvin</name>
+        </author>
+        <link href="https://fluffyfolks.github.io/first-post.html"/>
+        <id>https://fluffyfolks.github.io/first-post.html</id>
+
+        <updated>2019-10-22T20:46:29+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod<br>tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,<br>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo<br>consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse<br>cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non<br>proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            ]]>
+        </content>
+    </entry>
+</feed>

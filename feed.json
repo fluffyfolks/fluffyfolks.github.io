@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fluffyfolks",
+    "description": "",
+    "home_page_url": "https://fluffyfolks.github.io",
+    "feed_url": "https://fluffyfolks.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Calvin"
+    },
+    "items": [
+        {
+            "id": "https://fluffyfolks.github.io/first-post.html",
+            "url": "https://fluffyfolks.github.io/first-post.html",
+            "title": "First Post",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;",
+            "content_html": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod<br>tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,<br>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo<br>consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse<br>cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non<br>proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "author": {
+                "name": "Calvin"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-22T20:46:29+08:00",
+            "date_modified": "2019-10-22T20:46:29+08:00"
+        }
+    ]
+}
